@@ -12,7 +12,7 @@ Samuel <br/>
 
 # Methods
 
-Collaborative Filtering
+Collaborative Filtering <br/>
 Comment-Based Filtering
 
 # Results

@@ -22,4 +22,6 @@ Comment-Based Filtering
 # Data Sets 
 
 IMDB Movies: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews <br/>
-Netflix: https://www.kaggle.com/datasets/shivamb/netflix-shows
+IMDB Movies Top 1000 : https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows <br/>
+Netflix: https://www.kaggle.com/datasets/shivamb/netflix-shows 
+

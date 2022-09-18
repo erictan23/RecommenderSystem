@@ -1,0 +1,62 @@
+﻿user_id,fav_genre,show_id,fav_cast,user_rating
+u1,"Action & Adventure,Scifi & Fantasy",s144,"Tobey Maguire,James Franco",3
+u1,"Action & Adventure,Scifi & Fantasy",s6201,"Tobey Maguire,James Franco",5
+u1,"Action & Adventure,Scifi & Fantasy",s8068,"Tobey Maguire,James Franco",4
+u1,"Action & Adventure,Scifi & Fantasy",s8069,"Tobey Maguire,James Franco",5
+u2,Children & Family Movies,s8152,,4
+u2,Children & Family Movies,s8153,,5
+u2,Children & Family Movies,s8595,,2
+u2,Children & Family Movies,s8502,,3
+u3,Action & Adventure,s6201,"Chris Hemsworth,Rain,Matt Damon,Jason Statham,Robert Downey Jr., Chris Evans,Elizabeth Olsen,Vin Diesel",5
+u3,Action & Adventure,s438,"Chris Hemsworth,Rain,Matt Damon,Jason Statham,Robert Downey Jr., Chris Evans,Elizabeth Olsen,Vin Diesel",4
+u3,Action & Adventure,s47,"Chris Hemsworth,Rain,Matt Damon,Jason Statham,Robert Downey Jr., Chris Evans,Elizabeth Olsen,Vin Diesel",3
+u3,Action & Adventure,s722,"Chris Hemsworth,Rain,Matt Damon,Jason Statham,Robert Downey Jr., Chris Evans,Elizabeth Olsen,Vin Diesel",5
+u3,Action & Adventure,s1179,"Chris Hemsworth,Rain,Matt Damon,Jason Statham,Robert Downey Jr., Chris Evans,Elizabeth Olsen,Vin Diesel",3
+u3,Action & Adventure,s803,"Chris Hemsworth,Rain,Matt Damon,Jason Statham,Robert Downey Jr., Chris Evans,Elizabeth Olsen,Vin Diesel",2
+u4,Anime Series,s1169,,3
+u4,Anime Series,s2400,,5
+u4,Anime Series,s8278,,5
+u4,Anime Series,s1041,,4
+u4,Anime Series,s2855,,2
+u4,Anime Series,s701,,5
+u4,Anime Series,s632,,3
+u4,Anime Series,s339,,4
+u4,Anime Series,s5319,,5
+u4,Anime Series,s1919,,2
+u4,Anime Series,s779,,4
+u5,Documentaries,s46,,5
+u5,Documentaries,s222,,4
+u5,Documentaries,s1,,2
+u5,Documentaries,s855,,3
+u5,Documentaries,s1071,,4
+u5,Documentaries,s1172,,5
+u6,Horror Movies,s4539,"Guy Pearce,Patrick Wilson,Madison Wolfe,Cassandra Scerbo,Deborah Kara Unger,Adelaide Clemens,Bobby Campo",5
+u6,Horror Movies,s1284,"Guy Pearce,Patrick Wilson,Madison Wolfe,Cassandra Scerbo,Deborah Kara Unger,Adelaide Clemens,Bobby Campo",5
+u6,Horror Movies,s644,"Guy Pearce,Patrick Wilson,Madison Wolfe,Cassandra Scerbo,Deborah Kara Unger,Adelaide Clemens,Bobby Campo",4
+u6,Horror Movies,s8299,"Guy Pearce,Patrick Wilson,Madison Wolfe,Cassandra Scerbo,Deborah Kara Unger,Adelaide Clemens,Bobby Campo",3
+u6,Horror Movies,s8019,"Guy Pearce,Patrick Wilson,Madison Wolfe,Cassandra Scerbo,Deborah Kara Unger,Adelaide Clemens,Bobby Campo",4
+u6,Horror Movies,s7962,"Guy Pearce,Patrick Wilson,Madison Wolfe,Cassandra Scerbo,Deborah Kara Unger,Adelaide Clemens,Bobby Campo",5
+u6,Horror Movies,s6805,"Guy Pearce,Patrick Wilson,Madison Wolfe,Cassandra Scerbo,Deborah Kara Unger,Adelaide Clemens,Bobby Campo",3
+u7,Action & Adventure,s602,"Jackie Chan,Donnie Yen",5
+u7,Action & Adventure,s603,"Jackie Chan,Donnie Yen",4
+u7,Action & Adventure,s1179,"Jackie Chan,Donnie Yen",4
+u7,Action & Adventure,s132,"Jackie Chan,Donnie Yen",2
+u7,Action & Adventure,s280,"Jackie Chan,Donnie Yen",5
+u7,Action & Adventure,s701,"Jackie Chan,Donnie Yen",5
+u7,Action & Adventure,s2221,"Jackie Chan,Donnie Yen",4
+u8,Reality TV,s2385,,3
+u8,Reality TV,s1980,,5
+u8,Reality TV,s1548,,4
+u8,Reality TV,s1401,,3
+u8,Reality TV,s1046,,5
+u8,Reality TV,s1749,,2
+u8,Reality TV,s1995,,5
+u9,Comedies,s6807,"Joel Courtney,Stephen Jennings",3
+u9,Comedies,s33,"Joel Courtney,Stephen Jennings",5
+u9,Comedies,s83,"Joel Courtney,Stephen Jennings",5
+u9,Comedies,s285,"Joel Courtney,Stephen Jennings",4
+u10,Dramas,s113,"Naomi Watts,Miachel Keaton,Zaria,Amy Ryan",5
+u10,Dramas,s1090,"Naomi Watts,Miachel Keaton,Zaria,Amy Ryan",3
+u10,Dramas,s1485,"Naomi Watts,Miachel Keaton,Zaria,Amy Ryan",2
+u10,Dramas,s1436,"Naomi Watts,Miachel Keaton,Zaria,Amy Ryan",5
+u10,Dramas,s1768,"Naomi Watts,Miachel Keaton,Zaria,Amy Ryan",4

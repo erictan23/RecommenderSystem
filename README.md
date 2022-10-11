@@ -10,6 +10,10 @@ Jun Jie <br/>
 Seph <br/>
 Samuel <br/>
 
+# Requirements
+1. Working Editor / Anaconda with Python installed
+2. pip install packages (Surprise, wordcloud, pandas, scipy, numpy, re, time, nltk
+
 # Methods
 
 Collaborative Filtering <br/>

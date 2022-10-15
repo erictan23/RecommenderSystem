@@ -4,11 +4,11 @@ This is a CZ4032 Project 1 implementing Recommender System onto datasets for dat
 
 # Members
 
-Eric <br/>
-Zon <br/>
-Jun Jie <br/>
-Seph <br/>
-Samuel <br/>
+Tan Jiawei, Eric <br/>
+Zon Liew Hur Zhen <br/>
+Chan Jun Jie <br/>
+Seph Chen Kian Leong <br/>
+Samuel Png Yao Wei <br/>
 
 # Requirements
 1. Working Editor / Anaconda with Python installed
@@ -18,10 +18,6 @@ Samuel <br/>
 
 Collaborative Filtering <br/>
 Comment-Based Filtering
-
-# Results
-
-# Analysis 
 
 # Data Sets 
 

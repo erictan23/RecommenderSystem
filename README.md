@@ -19,6 +19,17 @@ Samuel Png Yao Wei <br/>
 Collaborative Filtering <br/>
 Comment-Based Filtering
 
+# How to use the recommender systems?
+
+## Collaborative Filtering
+1. **KNN Collaborative** - Optimization will take approximately an hour hence comment it out as it is not required. <br/> get_rec_knn([("movie_title", rating) <br/>
+2. **Search Similarity** - new_user1 = [("movie_title", rating), ("move_title", rating)] -> adjust the user's watch list and rating to retrieve recommendations.
+3. **Similar Genre Average Ratings** - get_recommendation_netflix(["genre" , "genre"],[]) -> adjust the user's favourite genre for recommendations
+## Content Filtering 
+ 1. Netflix Dataset Recommendation - recommend_netflix(['Movie_Title']) -> Returns you the top 5 netflix recommendation <br/>
+ 2. IMDB Movie Dataset Recommendation - movie_recommendation(['Movie_Title']) -> Returns you the top 5 movie recommendation <br/>
+ 
+
 # Data Sets 
 
 For Content Based Filtering: <br/>

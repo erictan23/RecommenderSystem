@@ -12,7 +12,7 @@ Samuel <br/>
 
 # Requirements
 1. Working Editor / Anaconda with Python installed
-2. pip install packages (Surprise, wordcloud, pandas, scipy, numpy, re, time, nltk)
+2. pip install packages inside requirements.txt (Surprise, wordcloud, pandas, scipy, numpy, re, time, nltk)
 
 # Methods
 
